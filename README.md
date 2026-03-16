@@ -1,4 +1,6 @@
-> **This repository has been archived.** This project is no longer maintained.\n\n# ✨ Awesome CrewAI ✨
+> **This repository has been archived.** This project is no longer maintained.
+
+# ✨ Awesome CrewAI ✨
 
 > A curated collection of open-source projects built by the amazing CrewAI community.  
 > Discover ideas to help you unlock the full potential of AI Agents using CrewAI.
